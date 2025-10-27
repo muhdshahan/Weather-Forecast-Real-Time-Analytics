@@ -46,7 +46,7 @@ The API provides real-time and forecasted weather data, including temperature, p
 ## 🖼️ Image Preview
 - **Main Dashboard View**
   
-![Dashboard View](https://github.com/muhdshahan/Amazon-E-Commerce-Sales-Dashboard/blob/main/Screenshot%20(1113).png)
+![Dashboard View](https://github.com/muhdshahan/Weather-Forecast-Real-Time-Analytics/blob/main/Weather%20Dashboard.png)
 
 
 ## 📌 Conclusion
